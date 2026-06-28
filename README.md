@@ -78,7 +78,7 @@ Moving from Systems Administration into **Security Operations** including incide
 
 ```
 $ tail -f /var/log/career.log
-[INFO] Reducing critical security incidents by 90% — and counting.
+[INFO] Reducing critical security incidents by 90%, and counting.
 [INFO] Currently watching: localhost. Currently learning: everything else.
 ```
 
