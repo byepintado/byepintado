@@ -8,7 +8,7 @@ $ status
 [IN_PROGRESS] ISC2 SSCP — exam scheduled July 2026
 ```
 
-I secure IT infrastructure across **200+ client environments** at an MSP — patching, hardening, monitoring, and responding to threats before they become incidents. Now I'm pointing that same discipline at a dedicated security career.
+I secure IT infrastructure across **200+ client environments** at an MSP including patching, hardening, monitoring, and responding to threats before they become incidents. Now I'm pointing that same discipline at a dedicated security career.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-pintado)
 
