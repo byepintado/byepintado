@@ -70,7 +70,7 @@ Moving from Systems Administration into **Security Operations** including incide
 
 ## 🖥️ `projects/`
 
-- 🔧 [**Server Hardening Automation**](https://github.com/byepintado/server-hardening-automation) — PowerShell + NinjaOne, deployed across MSP infrastructure
+- 🔧 [**Acronis Backup Security Framework**](https://github.com/byepintado/acronis-backup-security-framework) — 5-script PowerShell/NinjaOne framework enforcing least privilege on backup infrastructure across a multi-client MSP fleet
 - 📊 **Log Analysis Lab** — ELK Stack, building SIEM-equivalent detection skills
 - 🐍 **PowerShell → Python Rewrite** — porting an existing automation tool to build dual-language fluency
 
